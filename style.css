@@ -42,7 +42,7 @@ button:hover {
 /* 🌱 BACKGROUNDS (imagens da internet) */
 
 .home {
-    background: url("https://www.sistemafaep.org.br/wp-content/uploads/2023/09/Agrinho.jpg") no-repeat center center;
+    background: url("https://www.sistemafaep.org.br/wp-content/uploads/2023/09/Agrinho.jpg");
     background-size: cover;
 }
 
