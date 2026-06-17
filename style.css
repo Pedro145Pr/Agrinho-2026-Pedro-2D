@@ -43,7 +43,7 @@ button:hover {
 
 .home {
     background: url("https://www.sistemafaep.org.br/wp-content/uploads/2023/09/Agrinho.jpg");
-    background-size: 1920 x 1080;
+    background-size: cover;
 }
 
 .sobre {
