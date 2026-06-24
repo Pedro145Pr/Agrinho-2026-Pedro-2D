@@ -32,7 +32,7 @@ button:hover {
 
 /* CARD */
 .card {
-    background: rgba(0,0,0,0.6);
+    background: rgba(0,0,0,0.5);
     margin: 30px auto;
     padding: 20px;
     width: 80%;
